@@ -60,6 +60,4 @@ I thrive on hands-on innovation, working with microcontrollers, robotic systems,
 <a href="https://www.linkedin.com/in/bhavya-dosi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bhavya Dosi" /></a>
 </p>
 
----
 
-![Bhavya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
