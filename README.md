@@ -7,18 +7,31 @@
 
 ### 👨‍💻 About Me
 
-I am an aspiring **Robotics & Mechatronics Engineer** currently starting my journey at **Virginia Tech** (Class of 2029). My goal is to build a better future by combining mechanical design with intelligent systems. 
+I am an aspiring **Robotics & Mechatronics Engineer** currently starting my journey at **Virginia Tech** . My goal is to build a better future by combining mechanical design with intelligent systems. 
 
 I thrive on hands-on innovation, working with microcontrollers, robotic systems, and rapid prototyping.
 
-- 🔭 **I’m currently working on:** Drone design at **CroLabs (VT CRO)** and prototyping consulting at **Virginia Tech Libraries**.
-- 🌱 **I’m currently learning:** Advanced Embedded Systems, AI integration in Robotics, and Mechanical Design.
+- 🔭 **I’m currently working on:** **LiDAR-based Autonomous Navigation** using ROS2 and **Project JARVIS**.
+- 🌱 **I’m currently learning:** SLAM algorithms, ROS2 Navigation Stack (Nav2), and C++.
 - 💡 **I’m interested in:** Mechatronics, Artificial Intelligence, Automation, and Sustainable Tech.
-- 🎓 **Education:** B.E. in Engineering, Virginia Tech.
+- 🎓 **Education:** B.S. in Engineering, Virginia Tech.
+
+---
+
+### 🚀 Featured Projects
+
+- **LiDAR Autonomous Robot:** Developing a mobile platform that uses **SLAM** to map unknown environments and **ROS** for autonomous path planning.
+- **Project JARVIS:** Building a voice-integrated personal assistant using Python and LLMs to act as the central interface for my robotic systems.
+- **Autonomous Plastic Collection Rover:** An ML-powered rover designed for environmental cleanup using computer vision and embedded systems.
 
 ---
 
 ### 🛠️ Technical Skills
+
+**Robotics & Navigation:**
+![ROS2](https://img.shields.io/badge/ROS2-Humble-blue?style=flat&logo=ros&logoColor=white)
+![SLAM](https://img.shields.io/badge/SLAM-Mapping-green?style=flat)
+![LiDAR](https://img.shields.io/badge/LiDAR-Navigation-yellow?style=flat)
 
 **Languages & Firmware:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -59,5 +72,3 @@ I thrive on hands-on innovation, working with microcontrollers, robotic systems,
 <p align="left">
 <a href="https://www.linkedin.com/in/bhavya-dosi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bhavya Dosi" /></a>
 </p>
-
-
