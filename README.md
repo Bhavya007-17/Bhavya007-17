@@ -13,7 +13,7 @@ I'm a mechanical engineering student at **Virginia Tech** and **Chief Engineer a
 I learn by building: microcontrollers, robot platforms, control software, and a lot of rapid prototyping.
 
 - 🔭 **Currently leading:** **HIVE** — designing a system to onboard and coordinate heterogeneous ROS2 robot swarms from natural-language directives *(in development)*.
-- ⚙️ **Also building:** a **LiDAR + SLAM** autonomous robot, and **Project JARVIS**, a voice/LLM interface for robotic systems.
+- ⚙️ **Also building:** a **LiDAR + SLAM** robot, a voice-controlled **robotic arm**, and an **autonomous drone**.
 - 🌱 **Currently learning:** ROS2 Nav2, advanced SLAM, and modern C++ for real-time control.
 - 💡 **Interested in:** robot autonomy, mechatronics, embedded systems, and AI for the physical world.
 - 🎓 **Education:** B.S. Mechanical Engineering, Virginia Tech.
@@ -28,8 +28,11 @@ I learn by building: microcontrollers, robot platforms, control software, and a 
 **🗣️ Project JARVIS** — Voice-controlled assistant built on **Python** and **LLMs**, designed as a natural-language interface to my robotic systems.
 `Python` `LLMs` `NLP` · [Repo →](#)
 
-**♻️ Autonomous Plastic Collection Rover** — ML-powered rover for environmental cleanup that uses **computer vision** to detect and collect plastic waste on embedded hardware.
-`Computer Vision` `Machine Learning` `Embedded` · [Repo →](#)
+**🚁 Autonomous Drone** — A UAV platform focused on stable autonomous flight and navigation.
+`Drone` `Flight Control` `Embedded` · [Repo →](#)
+
+**🦾 Robotic Arm** — A robotic manipulator controlled by voice, wiring an NLP pipeline to a physical arm for natural-language control.
+`Python` `NLP` `ROS2` · [Repo →](#)
 
 ---
 
@@ -72,16 +75,14 @@ I learn by building: microcontrollers, robot platforms, control software, and a 
   - Co-developed a multi-modal (fly / swim / drive) robot; led structural design and packaging, and co-authored a paper on amphibious robotics.
 - **Technical Consultant** — Prototyping Studio, Virginia Tech Libraries
   - Help students and researchers with CAD, 3D printing, laser cutting, and electronics.
-- **UNICEF Ambassador** — Nord Anglia Education
-  - Selected from 100,000+ students to advocate for children's rights and the UN SDGs.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
-<!-- Replace YOUR_USERNAME with your GitHub handle -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<!-- Replace YOUR_USERNAME with your real GitHub handle in BOTH lines below -->
+![Profile Views](https://komarev.com/ghpvc/?username=Bhavya007-17&color=0077B5&style=flat)
+![Followers](https://img.shields.io/github/followers/Bhavya007-17?label=Followers&style=flat&logo=github)
 
 ---
 
