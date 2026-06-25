@@ -13,7 +13,7 @@ I'm a mechanical engineering student at **Virginia Tech** and **Chief Engineer a
 I learn by building: microcontrollers, robot platforms, control software, and a lot of rapid prototyping.
 
 - 🔭 **Currently leading:** **HIVE** — designing a system to onboard and coordinate heterogeneous ROS2 robot swarms from natural-language directives *(in development)*.
-- ⚙️ **Also building:** a **LiDAR + SLAM** robot, a voice-controlled **robotic arm**, and an **autonomous drone**.
+- ⚝️ **Also building:** a **LiDAR + SLAM** robot, a voice-controlled **robotic arm**, and an **autonomous drone**.
 - 🌱 **Currently learning:** ROS2 Nav2, advanced SLAM, and modern C++ for real-time control.
 - 💡 **Interested in:** robot autonomy, mechatronics, embedded systems, and AI for the physical world.
 - 🎓 **Education:** B.S. Mechanical Engineering, Virginia Tech.
@@ -22,17 +22,23 @@ I learn by building: microcontrollers, robot platforms, control software, and a 
 
 ### 🚀 Featured Projects
 
+**🧠 Jarvis — Agentic Orchestrator** — A local-first agentic orchestrator that routes each task to the best model, runs a multi-model planning council and an agent graph, and adds MCP tools, voice, and vision.
+`Python` `Agentic AI` `LLMs` `MCP` · [Repo →](https://github.com/Bhavya007-17/jarvis-agentic-orchestrator)
+
 **🧭 LiDAR Autonomous Robot** — Maps unknown environments with **SLAM** and plans paths autonomously on **ROS2**.
-`ROS2` `SLAM` `LiDAR` `C++` · [Repo →](#)
+`ROS2` `SLAM` `LiDAR` `C++` · [Repo →](https://github.com/Bhavya007-17/lidar-autonomous-robot)
 
 **🗣️ Project JARVIS** — Voice-controlled assistant built on **Python** and **LLMs**, designed as a natural-language interface to my robotic systems.
-`Python` `LLMs` `NLP` · [Repo →](#)
+`Python` `LLMs` `NLP` · [Repo →](https://github.com/Bhavya007-17/project-jarvis)
 
 **🚁 Autonomous Drone** — A UAV platform focused on stable autonomous flight and navigation.
-`Drone` `Flight Control` `Embedded` · [Repo →](#)
+`Drone` `Flight Control` `Embedded` · [Repo →](https://github.com/Bhavya007-17/autonomous-drone)
 
 **🦾 Robotic Arm** — A robotic manipulator controlled by voice, wiring an NLP pipeline to a physical arm for natural-language control.
-`Python` `NLP` `ROS2` · [Repo →](#)
+`Python` `NLP` `ROS2` · [Repo →](https://github.com/Bhavya007-17/robotic-arm)
+
+**🐕 Robot Dog** — A Wi-Fi-controlled ESP32 quadruped with a built-in access point and browser-based control interface.
+`ESP32` `Arduino` `C++` · [Repo →](https://github.com/Bhavya007-17/robot-dog)
 
 ---
 
@@ -70,17 +76,16 @@ I learn by building: microcontrollers, robot platforms, control software, and a 
 ### 💼 Experience
 
 - **Chief Engineer** — CroLabs (VT CRO)
-  - Leading the design of HIVE, an in-development framework for onboarding and coordinating heterogeneous ROS2 robot swarms.
+- Leading the design of HIVE, an in-development framework for onboarding and coordinating heterogeneous ROS2 robot swarms.
 - **Mechanical Engineer** — CroLabs (VT CRO)
-  - Co-developed a multi-modal (fly / swim / drive) robot; led structural design and packaging, and co-authored a paper on amphibious robotics.
+- Co-developed a multi-modal (fly / swim / drive) robot; led structural design and packaging, and co-authored a paper on amphibious robotics.
 - **Technical Consultant** — Prototyping Studio, Virginia Tech Libraries
-  - Help students and researchers with CAD, 3D printing, laser cutting, and electronics.
+- Help students and researchers with CAD, 3D printing, laser cutting, and electronics.
 
 ---
 
 ### 📊 GitHub
 
-<!-- Replace YOUR_USERNAME with your real GitHub handle in BOTH lines below -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Bhavya007-17&color=0077B5&style=flat)
 ![Followers](https://img.shields.io/github/followers/Bhavya007-17?label=Followers&style=flat&logo=github)
 
@@ -90,5 +95,5 @@ I learn by building: microcontrollers, robot platforms, control software, and a 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/bhavya-dosi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:bhavyadosi@vt.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
